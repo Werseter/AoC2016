@@ -6,7 +6,7 @@ int main()
     char out[10]={0};
     char i;
     FILE *in;
-    in=fopen("advent2.txt","r+");
+    in=fopen("input.txt","r+");
     if (in==NULL) printf("\nFNF\n");
     else
     {
@@ -15,7 +15,6 @@ int main()
         while (feof(in)==0)
         {
             i=fgetc(in);
-            //printf("%c\n", i);
             if (i=='U' && y>0)
                 y--;
             if (i=='D' && y<2)
