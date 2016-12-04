@@ -1,7 +1,7 @@
 [Advent of Code 2016](http://adventofcode.com) solutions by Werseter
 ========================
 
-| Day | Name                                           | Solution            | Source                                     |
+| Day | Name                                           | Solution            | Puzzle                                     |
 |:---:|:-----------------------------------------------|:-------------------:|:------------------------------------------:|
 | 01  | No Time for a Taxicab                          | [Link](/Day%2001)   | [Link](http://adventofcode.com/2016/day/1) |
 | 02  | Bathhroom Security                             | [Link](/Day%2002)   | [Link](http://adventofcode.com/2016/day/2) |
