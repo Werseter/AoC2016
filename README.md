@@ -9,3 +9,4 @@
 | 04  | Security Through Obscurity                     | [Link](/Day%2004)   | [Link](http://adventofcode.com/2016/day/4) |
 | 05  | How About a Nice Game of Chess?                | [Link](/Day%2005)   | [Link](http://adventofcode.com/2016/day/5) |
 | 06  | Signals and Noise                              | [Link](/Day%2006)   | [Link](http://adventofcode.com/2016/day/6) |
+| 07  | Internet Protocol Version 7                    | [Link](/Day%2007)   | [Link](http://adventofcode.com/2016/day/7) |
