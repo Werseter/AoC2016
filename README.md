@@ -12,3 +12,4 @@
 | 07  | Internet Protocol Version 7                    | [Link](/Day%2007)   | [Link](http://adventofcode.com/2016/day/7) |
 | 08  | Two-Factor Authentication                      | [Link](/Day%2008)   | [Link](http://adventofcode.com/2016/day/8) |
 | 09  | Explosives in Cyberspace                       | [Link](/Day%2009)   | [Link](http://adventofcode.com/2016/day/9) |
+| 10  | Balance Bots                                   | [Link](/Day%2010)   | [Link](http://adventofcode.com/2016/day/10) |
