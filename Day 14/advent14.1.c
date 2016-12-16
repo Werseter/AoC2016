@@ -1,11 +1,9 @@
-//I suggest compiling it with -O3 flag
 #include <stdio.h>
 #include <stdlib.h>
 #include "md5.h"
 
 void hashf(char *x, char *y, BYTE *buf)
 {
-    int i;
     MD5_CTX ctx;
     md5_init(&ctx);
     md5_update(&ctx, x, strlen(x));
@@ -52,7 +50,7 @@ int main()
 	BYTE buf[16];
 	BYTE t1[] = {"ngcjuoqr"}; //Input goes here
 	BYTE t2[15]={0};
-	char keys[1000][33]={0};
+	char keys[1000][33]={{0}};
 	for(i=0;x!=64;i++)
     {
         if(strcmp(keys[i%1000],"")!=0)
