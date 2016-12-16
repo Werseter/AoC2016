@@ -1,4 +1,3 @@
-//I suggest compiling it with -O3 flag
 #include <stdio.h>
 #include <stdlib.h>
 #include "md5.h"
