@@ -19,7 +19,7 @@
 | 14  | One-Time Pad                                   | [Link](/Day%2014)   | [Link](http://adventofcode.com/2016/day/14) |
 | 15  | Timing is Everything                           | [Link](/Day%2015)   | [Link](http://adventofcode.com/2016/day/15) |
 | 16  | Dragon Checksum                                | [Link](/Day%2016)   | [Link](http://adventofcode.com/2016/day/16) |
-| 17  | Two Steps Forward                              | Not solved yet      | [Link](http://adventofcode.com/2016/day/17) |
+| 17  | Two Steps Forward                              | [Link](/Day%2017)   | [Link](http://adventofcode.com/2016/day/17) |
 | 18  | Like a Rogue                                   | Not solved yet      | [Link](http://adventofcode.com/2016/day/18) |
 | 19  | An Elephant Named Joseph                       | Not solved yet      | [Link](http://adventofcode.com/2016/day/19) |
 | 20  | Firewall Rules                                 | Not solved yet      | [Link](http://adventofcode.com/2016/day/20) |
