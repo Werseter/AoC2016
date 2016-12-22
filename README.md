@@ -15,7 +15,7 @@
 | 10  | Balance Bots                                   | [Link](/Day%2010)   | [Link](http://adventofcode.com/2016/day/10) |
 | 11  | Radioisotope Thermoelectric Generators         | [Link](/Day%2011)   | [Link](http://adventofcode.com/2016/day/11) |
 | 12  | Leonardo's Monorail                            | [Link](/Day%2012)   | [Link](http://adventofcode.com/2016/day/12) |
-| 13  | A Maze of Twisty Little Cubicles               | Not solved yet      | [Link](http://adventofcode.com/2016/day/13) |
+| 13  | A Maze of Twisty Little Cubicles               | [Link](/Day%2013)   | [Link](http://adventofcode.com/2016/day/13) |
 | 14  | One-Time Pad                                   | [Link](/Day%2014)   | [Link](http://adventofcode.com/2016/day/14) |
 | 15  | Timing is Everything                           | [Link](/Day%2015)   | [Link](http://adventofcode.com/2016/day/15) |
 | 16  | Dragon Checksum                                | [Link](/Day%2016)   | [Link](http://adventofcode.com/2016/day/16) |
