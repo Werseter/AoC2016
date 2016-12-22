@@ -15,7 +15,7 @@ typedef struct state
 
 state *newstate(state *ptrs)
 {
-    state *temp=malloc(sizeof(state)+17);
+    state *temp=malloc(sizeof(state)+1);
     temp->moves = ptrs?ptrs->moves:0;
     ptrs?memcpy(temp->items, ptrs->items, X*61):memset(temp->items, 0, X*61);
     memset(temp->status, 0, 17);
