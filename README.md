@@ -21,7 +21,9 @@
 | 16  | Dragon Checksum                                | [Link](/Day%2016)   | [Link](http://adventofcode.com/2016/day/16) |
 | 17  | Two Steps Forward                              | [Link](/Day%2017)   | [Link](http://adventofcode.com/2016/day/17) |
 | 18  | Like a Rogue                                   | [Link](/Day%2018)   | [Link](http://adventofcode.com/2016/day/18) |
-| 19  | An Elephant Named Joseph                       | Not solved yet      | [Link](http://adventofcode.com/2016/day/19) |
+| 19  | An Elephant Named Joseph                       | [Link](/Day%2019)   | [Link](http://adventofcode.com/2016/day/19) |
 | 20  | Firewall Rules                                 | Not solved yet      | [Link](http://adventofcode.com/2016/day/20) |
 | 21  | Scrambled Letters and Hash                     | Not solved yet      | [Link](http://adventofcode.com/2016/day/21) |
 | 22  | Grid Computing                                 | Not solved yet      | [Link](http://adventofcode.com/2016/day/22) |
+| 23  | Safe Cracking                                  | Not solved yet      | [Link](http://adventofcode.com/2016/day/23) |
+| 24  | Air Duct Spelunking                            | Not solved yet      | [Link](http://adventofcode.com/2016/day/24) |
